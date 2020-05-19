@@ -11,7 +11,7 @@ class Column extends Component{
 					      <td className="dataContainerColumn">{item.value_second}</td>
 					      <td className="dataContainerManipulate">
 						      <div className="submitButton">
-								<button data-key={item.id} onClick={ this.props.action }>SUBMIT</button>
+								<button data-key={item.id} onClick={ this.props.action }>ADD</button>
 							  </div>
 						  </td>
 					      <td className="dataContainerColumn">{item.sum}</td>
