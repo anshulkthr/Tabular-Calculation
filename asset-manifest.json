@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Tabular-Calculation/static/css/main.cd6df59e.chunk.css",
+    "main.css": "/Tabular-Calculation/static/css/main.cacd791f.chunk.css",
     "main.js": "/Tabular-Calculation/static/js/main.cebe7781.chunk.js",
     "main.js.map": "/Tabular-Calculation/static/js/main.cebe7781.chunk.js.map",
     "runtime-main.js": "/Tabular-Calculation/static/js/runtime-main.268a58aa.js",
@@ -8,15 +8,15 @@
     "static/js/2.884a58e5.chunk.js": "/Tabular-Calculation/static/js/2.884a58e5.chunk.js",
     "static/js/2.884a58e5.chunk.js.map": "/Tabular-Calculation/static/js/2.884a58e5.chunk.js.map",
     "index.html": "/Tabular-Calculation/index.html",
-    "precache-manifest.9da5f4809d79fdb8aa27cf8e97aa9a98.js": "/Tabular-Calculation/precache-manifest.9da5f4809d79fdb8aa27cf8e97aa9a98.js",
+    "precache-manifest.92d626437b6bc3df643aaa3661c64cf2.js": "/Tabular-Calculation/precache-manifest.92d626437b6bc3df643aaa3661c64cf2.js",
     "service-worker.js": "/Tabular-Calculation/service-worker.js",
-    "static/css/main.cd6df59e.chunk.css.map": "/Tabular-Calculation/static/css/main.cd6df59e.chunk.css.map",
+    "static/css/main.cacd791f.chunk.css.map": "/Tabular-Calculation/static/css/main.cacd791f.chunk.css.map",
     "static/js/2.884a58e5.chunk.js.LICENSE.txt": "/Tabular-Calculation/static/js/2.884a58e5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.268a58aa.js",
     "static/js/2.884a58e5.chunk.js",
-    "static/css/main.cd6df59e.chunk.css",
+    "static/css/main.cacd791f.chunk.css",
     "static/js/main.cebe7781.chunk.js"
   ]
 }

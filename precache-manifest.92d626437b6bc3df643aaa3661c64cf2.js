@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf5f439e2a9dc403fa2868b151153d3a",
+    "revision": "25ae67af824e4ad8092d0b441865db0f",
     "url": "/Tabular-Calculation/index.html"
   },
   {
-    "revision": "ba0ed6fdf4eb43b65134",
-    "url": "/Tabular-Calculation/static/css/main.cd6df59e.chunk.css"
+    "revision": "ad09672aba3aaf0a7b7b",
+    "url": "/Tabular-Calculation/static/css/main.cacd791f.chunk.css"
   },
   {
     "revision": "8efc7f201b79a9977fd0",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Tabular-Calculation/static/js/2.884a58e5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ba0ed6fdf4eb43b65134",
+    "revision": "ad09672aba3aaf0a7b7b",
     "url": "/Tabular-Calculation/static/js/main.cebe7781.chunk.js"
   },
   {
