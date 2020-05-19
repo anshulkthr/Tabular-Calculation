@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+.AppContainer
+{ 
+    margin: auto;
+    width: 50%; 
+}
+.dataContainer{
+  width: 100%;
+  border: 2px solid #8ebf42;
+  text-align: center;
+  background-color: #d9d9d9;
+  margin-top: 50px;
+}
+.dataContainer td.dataContainerColumn {
+  border: 10px groove #1c87c9;
+  font-weight: 600;
+}
+.dataContainer td.dataContainerManipulate {
+  background-color: red;
+  color: #fff;
+  font-weight: 700;
+}
+.submitButton button{
+  width: 50%;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: 700;
+  cursor: pointer;
+}
